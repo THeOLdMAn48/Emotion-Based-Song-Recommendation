@@ -34,8 +34,16 @@ An AI-powered web app that detects your facial emotion using your webcam and rec
 The CNN model is trained to classify 7 basic emotions:  
 `Happy`, `Sad`, `Angry`, `Fear`, `Surprise`, `Neutral`, `Disgust`
 
-## 🚀 How to Run
+## How to install 
 
 ```bash
+git clone https://github.com/yourusername/emotion-music-recommender.git
+cd emotion-music-recommender
+
+
+python -m venv venv
+source venv/bin/activate
+
 pip install -r requirements.txt
 streamlit run app.py
+
