@@ -45,9 +45,8 @@ The CNN model is trained to classify 7 basic emotions:
 5. After creating, you'll see **Client ID** and **Client Secret** on your app page.
 6. Copy those and add them to your project’s `.env` or config file as:
 
-```env
-SPOTIFY_CLIENT_ID=your_client_id_here
-SPOTIFY_CLIENT_SECRET=your_client_secret_here
+#POTIFY_CLIENT_ID=your_client_id_here
+#SPOTIFY_CLIENT_SECRET=your_client_secret_here
 
 ### 2. YouTube API Key Setup
 
@@ -67,8 +66,8 @@ SPOTIFY_CLIENT_SECRET=your_client_secret_here
 
 8. Add the API Key to your `.env` or config file like this:
 
-```env
-YOUTUBE_API_KEY=your_api_key_here
+
+#YOUTUBE_API_KEY=your_api_key_here
 
 
 ## How to install 
