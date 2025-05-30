@@ -1,11 +1,11 @@
 # 🔐 Security Policy
 
-## Supported Versions
+## Supported Versions python 
 
 | Version | Supported          |
 |---------|--------------------|
-| 1.0.x   | ✅ Yes              |
-| < 1.0   | ❌ No               |
+|   3.11.0 | ✅ Yes           |
+| + 3.11   | ❌ No             |
 
 We will only address security issues in the latest stable release (1.0.x).
 
