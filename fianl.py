@@ -10,9 +10,9 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import requests
 
 # --- CREDENTIALS ---
-SPOTIFY_CLIENT_ID = "977c8528f60a496e96caedad9099ff7e"
-SPOTIFY_CLIENT_SECRET = "671e9b9eed0340aeb1315ba0b3e85166"
-YOUTUBE_API_KEY = "AIzaSyBOMGesm4uh3s7ipJXD2tGv2N6IPwqNxPQ"
+SPOTIFY_CLIENT_ID = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" #read README.md to make
+SPOTIFY_CLIENT_SECRET = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" #read README.md to make
+YOUTUBE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  #read README.md to make
 
 # --- SETUP ---
 csv_path = 'muse_v3.csv'
