@@ -16,7 +16,7 @@ We will only address security issues in the latest stable release (1.0.x).
 If you discover a security vulnerability in this project, **please report it responsibly**.
 
 ### ✅ Please DO:
-- Email us at **youremail@example.com** (replace with your email)
+- Email us at **ogohel53@example.com** (replace with your email)
 - Include:
   - A clear description of the issue
   - Steps to reproduce the vulnerability
