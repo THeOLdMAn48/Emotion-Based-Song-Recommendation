@@ -90,11 +90,11 @@ streamlit run final.py
 ## 📸 Screenshots
 
 ### Home Page
-![Home](assets/screenshot(565).png)
+![Home](assests/Screenshot(565).png)
 
 ### Emotion Detection (Quick Scan)
-![Emotion Detection](assets/screenshot(563).png)
+![Emotion Detection](assests/Screenshot(563).png)
 
 ### Recommended Songs with Youtube previw 
-![Songs](assets/screenshot(534).png)
+![Songs](assests/Screenshot(534).png)
 
