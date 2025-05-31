@@ -75,12 +75,26 @@ The CNN model is trained to classify 7 basic emotions:
 ```bash
 git clone https://github.com/yourusername/emotion-music-recommender.git
 cd emotion-music-recommender
+``` 
+## make a Environment for python 3.11 
 
-
+```bash
 python -m venv venv
 source venv/bin/activate
+```
 
+```bash
 pip install -r requirements.txt
 streamlit run final.py
+```
+## 📸 Screenshots
 
+### Home Page
+![Home](assets/screenshot(565).png)
+
+### Emotion Detection (Quick Scan)
+![Emotion Detection](assets/screenshot(563).png)
+
+### Recommended Songs with Youtube previw 
+![Songs](assets/screenshot(534).png)
 
